@@ -1,0 +1,30 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
+# TestNG output directory
+test-output/
+
+# IntelliJ IDEA files (if some developers use IntelliJ)
+.idea/
+*.iml
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
