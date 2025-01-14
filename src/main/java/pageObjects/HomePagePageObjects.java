@@ -14,6 +14,7 @@ public class HomePagePageObjects {
 		PageFactory.initElements(driver, this);
 	}
 
+//	WebElement
 	@FindBy(xpath = "//div[@class='orangehrm-dashboard-widget-header']//p")
 	private List<WebElement> dashboardHeaders;
 
